@@ -9,9 +9,6 @@ USERNAME = 'Kamawanujp'
 def url_for_region(region_code: str):
     return f'https://music.apple.com/{region_code.lower()}/station/{USERNAME}s-station/ra.u-3b06f94e8711b9931abb70ff757aa95f'
 
-print(url_for_region('de'))
-exit(0)
-
 with open('region-codes.json', 'r') as file:
     region_codes = json.load(file)
     region_codes = {k.lower():v for k, v in region_codes.items()}
