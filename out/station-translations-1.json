@@ -1,0 +1,832 @@
+[
+  {
+    "region_code": "dz",
+    "region_name": "Algeria",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ao",
+    "region_name": "Angola",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ai",
+    "region_name": "Anguilla",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ag",
+    "region_name": "Antigua And Barbuda",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ar",
+    "region_name": "Argentina",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "am",
+    "region_name": "Armenia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "au",
+    "region_name": "Australia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "at",
+    "region_name": "Austria",
+    "text": "Kamawanujps Sender "
+  },
+  {
+    "region_code": "az",
+    "region_name": "Azerbaijan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bs",
+    "region_name": "Bahamas",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bh",
+    "region_name": "Bahrain",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bb",
+    "region_name": "Barbados",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "by",
+    "region_name": "Belarus",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "be",
+    "region_name": "Belgium",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bz",
+    "region_name": "Belize",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bj",
+    "region_name": "Benin",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bm",
+    "region_name": "Bermuda",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bt",
+    "region_name": "Bhutan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bo",
+    "region_name": "Bolivia",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ba",
+    "region_name": "Bosnia And Herzegovina",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "bw",
+    "region_name": "Botswana",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "br",
+    "region_name": "Brazil",
+    "text": "Esta\u00e7\u00e3o de Kamawanujp "
+  },
+  {
+    "region_code": "bg",
+    "region_name": "Bulgaria",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "kh",
+    "region_name": "Cambodia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cm",
+    "region_name": "Cameroon",
+    "text": "Station de : Kamawanujp "
+  },
+  {
+    "region_code": "ca",
+    "region_name": "Canada",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cv",
+    "region_name": "Cape Verde",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ky",
+    "region_name": "Cayman Islands",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "td",
+    "region_name": "Chad",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cl",
+    "region_name": "Chile",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "cn",
+    "region_name": "China",
+    "text": "Kamawanujp\u7684\u7535\u53f0 "
+  },
+  {
+    "region_code": "co",
+    "region_name": "Colombia",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "cg",
+    "region_name": "Congo",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cd",
+    "region_name": "Congo, Democratic Republic",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cr",
+    "region_name": "Costa Rica",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ci",
+    "region_name": "Cote D\"Ivoire",
+    "text": "Station de : Kamawanujp "
+  },
+  {
+    "region_code": "hr",
+    "region_name": "Croatia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cy",
+    "region_name": "Cyprus",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "cz",
+    "region_name": "Czech Republic",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "dk",
+    "region_name": "Denmark",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "dm",
+    "region_name": "Dominica",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "do",
+    "region_name": "Dominican Republic",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ec",
+    "region_name": "Ecuador",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "eg",
+    "region_name": "Egypt",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sv",
+    "region_name": "El Salvador",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ee",
+    "region_name": "Estonia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "fj",
+    "region_name": "Fiji",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "fi",
+    "region_name": "Finland",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "fr",
+    "region_name": "France",
+    "text": "Station de : Kamawanujp "
+  },
+  {
+    "region_code": "ga",
+    "region_name": "Gabon",
+    "text": "Station de : Kamawanujp "
+  },
+  {
+    "region_code": "gm",
+    "region_name": "Gambia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ge",
+    "region_name": "Georgia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "de",
+    "region_name": "Germany",
+    "text": "Kamawanujps Sender "
+  },
+  {
+    "region_code": "gh",
+    "region_name": "Ghana",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "gr",
+    "region_name": "Greece",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "gd",
+    "region_name": "Grenada",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "gt",
+    "region_name": "Guatemala",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "gw",
+    "region_name": "Guinea-Bissau",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "gy",
+    "region_name": "Guyana",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "hn",
+    "region_name": "Honduras",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "hk",
+    "region_name": "Hong Kong",
+    "text": "Kamawanujp\u7684\u96fb\u53f0 "
+  },
+  {
+    "region_code": "hu",
+    "region_name": "Hungary",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "is",
+    "region_name": "Iceland",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "in",
+    "region_name": "India",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "id",
+    "region_name": "Indonesia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "iq",
+    "region_name": "Iraq",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ie",
+    "region_name": "Ireland",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "il",
+    "region_name": "Israel",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "it",
+    "region_name": "Italy",
+    "text": "Stazione di Kamawanujp "
+  },
+  {
+    "region_code": "jm",
+    "region_name": "Jamaica",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "jp",
+    "region_name": "Japan",
+    "text": "Kamawanujp\u3055\u3093\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3 "
+  },
+  {
+    "region_code": "jo",
+    "region_name": "Jordan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "kz",
+    "region_name": "Kazakhstan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ke",
+    "region_name": "Kenya",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "kr",
+    "region_name": "Korea",
+    "text": "Kamawanujp\uc758 \uc2a4\ud14c\uc774\uc158 "
+  },
+  {
+    "region_code": "kw",
+    "region_name": "Kuwait",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "kg",
+    "region_name": "Kyrgyzstan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "la",
+    "region_name": "Lao People\"s Democratic Republic",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lv",
+    "region_name": "Latvia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lb",
+    "region_name": "Lebanon",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lr",
+    "region_name": "Liberia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ly",
+    "region_name": "Libyan Arab Jamahiriya",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lt",
+    "region_name": "Lithuania",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lu",
+    "region_name": "Luxembourg",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mo",
+    "region_name": "Macao",
+    "text": "Kamawanujp\u7684\u96fb\u53f0 "
+  },
+  {
+    "region_code": "mk",
+    "region_name": "Macedonia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mg",
+    "region_name": "Madagascar",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mw",
+    "region_name": "Malawi",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "my",
+    "region_name": "Malaysia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mv",
+    "region_name": "Maldives",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ml",
+    "region_name": "Mali",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mt",
+    "region_name": "Malta",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mr",
+    "region_name": "Mauritania",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mu",
+    "region_name": "Mauritius",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mx",
+    "region_name": "Mexico",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "fm",
+    "region_name": "Micronesia, Federated States Of",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "md",
+    "region_name": "Moldova",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mn",
+    "region_name": "Mongolia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "me",
+    "region_name": "Montenegro",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ms",
+    "region_name": "Montserrat",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ma",
+    "region_name": "Morocco",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mz",
+    "region_name": "Mozambique",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "mm",
+    "region_name": "Myanmar",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "na",
+    "region_name": "Namibia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "np",
+    "region_name": "Nepal",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "nl",
+    "region_name": "Netherlands",
+    "text": "Station van Kamawanujp "
+  },
+  {
+    "region_code": "nz",
+    "region_name": "New Zealand",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ni",
+    "region_name": "Nicaragua",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ne",
+    "region_name": "Niger",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ng",
+    "region_name": "Nigeria",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "no",
+    "region_name": "Norway",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "om",
+    "region_name": "Oman",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "pa",
+    "region_name": "Panama",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "pg",
+    "region_name": "Papua New Guinea",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "py",
+    "region_name": "Paraguay",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "pe",
+    "region_name": "Peru",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "ph",
+    "region_name": "Philippines",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "pl",
+    "region_name": "Poland",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "pt",
+    "region_name": "Portugal",
+    "text": "Esta\u00e7\u00e3o de Kamawanujp "
+  },
+  {
+    "region_code": "qa",
+    "region_name": "Qatar",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ro",
+    "region_name": "Romania",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ru",
+    "region_name": "Russian Federation",
+    "text": "\u041c\u043e\u044f \u0441\u0442\u0430\u043d\u0446\u0438\u044f (Kamawanujp) "
+  },
+  {
+    "region_code": "rw",
+    "region_name": "Rwanda",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "kn",
+    "region_name": "Saint Kitts And Nevis",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "lc",
+    "region_name": "Saint Lucia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "vc",
+    "region_name": "Saint Vincent And Grenadines",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sa",
+    "region_name": "Saudi Arabia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sn",
+    "region_name": "Senegal",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "rs",
+    "region_name": "Serbia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sc",
+    "region_name": "Seychelles",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sl",
+    "region_name": "Sierra Leone",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sg",
+    "region_name": "Singapore",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sk",
+    "region_name": "Slovakia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "si",
+    "region_name": "Slovenia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sb",
+    "region_name": "Solomon Islands",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "za",
+    "region_name": "South Africa",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "es",
+    "region_name": "Spain",
+    "text": "Emisora de Kamawanujp "
+  },
+  {
+    "region_code": "lk",
+    "region_name": "Sri Lanka",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sr",
+    "region_name": "Suriname",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "sz",
+    "region_name": "Swaziland",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "se",
+    "region_name": "Sweden",
+    "text": "Station f\u00f6r Kamawanujp "
+  },
+  {
+    "region_code": "ch",
+    "region_name": "Switzerland",
+    "text": "Kamawanujps Sender "
+  },
+  {
+    "region_code": "tw",
+    "region_name": "Taiwan",
+    "text": "Kamawanujp\u7684\u96fb\u53f0 "
+  },
+  {
+    "region_code": "tj",
+    "region_name": "Tajikistan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tz",
+    "region_name": "Tanzania",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "th",
+    "region_name": "Thailand",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "to",
+    "region_name": "Tonga",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tt",
+    "region_name": "Trinidad And Tobago",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tn",
+    "region_name": "Tunisia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tr",
+    "region_name": "Turkey",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tm",
+    "region_name": "Turkmenistan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "tc",
+    "region_name": "Turks And Caicos Islands",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ug",
+    "region_name": "Uganda",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ua",
+    "region_name": "Ukraine",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ae",
+    "region_name": "United Arab Emirates",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "gb",
+    "region_name": "United Kingdom",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "us",
+    "region_name": "United States",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "uy",
+    "region_name": "Uruguay",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "uz",
+    "region_name": "Uzbekistan",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "vu",
+    "region_name": "Vanuatu",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ve",
+    "region_name": "Venezuela",
+    "text": "Estaci\u00f3n de Kamawanujp "
+  },
+  {
+    "region_code": "vn",
+    "region_name": "Vietnam",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "vg",
+    "region_name": "Virgin Islands, British",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "ye",
+    "region_name": "Yemen",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "zm",
+    "region_name": "Zambia",
+    "text": "Kamawanujp\u2019s Station "
+  },
+  {
+    "region_code": "zw",
+    "region_name": "Zimbabwe",
+    "text": "Kamawanujp\u2019s Station "
+  }
+]
