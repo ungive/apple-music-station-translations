@@ -9,8 +9,6 @@
 #include <vector>
 #include <Windows.h>
 
-#define REGEX ".+s\\ Sender|.+的电台|Emisora\\ de\\ .+|Station\\ de\\ :\\ .+|.+의\\ 스테이션|.+’s\\ Station|Estación\\ de\\ .+|Station\\ van\\ .+|Station\\ för\\ .+|Estação\\ de\\ .+|.+さんのステーション|Stazione\\ di\\ .+|.+的電台|Моя\\ станция\\ \\(.+\\)"
-
 // https://stackoverflow.com/q/55582966/6748004
 std::string get_file_contents(const char *filename)
 {
