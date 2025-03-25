@@ -1,1 +1,1 @@
-(Моя\ станция\ \(.+\)|Stazione\ di\ .+|.+的电台|Estação\ de\ .+|.+s\ Sender|Emisora\ de\ .+|.+さんのステーション|.+의\ 스테이션|Station\ van\ .+|Estación\ de\ .+|Station\ de\ :\ .+|Station\ för\ .+|.+的電台|.+’s\ Station)
+(.+s\ Sender|.+’s\ Station|.+さんのステーション|.+的电台|.+的電台|.+의\ 스테이션|Emisora\ de\ .+|Estación\ de\ .+|Estação\ de\ .+|Station\ de\ :\ .+|Station\ för\ .+|Station\ van\ .+|Stazione\ di\ .+|Моя\ станция\ \(.+\))
