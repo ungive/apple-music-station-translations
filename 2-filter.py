@@ -20,7 +20,7 @@ for t in translations:
     regex = text.replace('A' * 10, USERNAME_REGEX)
     regexes.add(regex)
 
-final_regex = '(' + '|'.join(regexes) + ')'
+final_regex = '(' + '|'.join(sorted(regexes)) + ')'
 
 with codecs.open('out/regex.txt', 'w', 'utf-8') as file:
     file.write(final_regex)
