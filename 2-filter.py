@@ -25,4 +25,7 @@ final_regex = '(' + '|'.join(sorted(regexes)) + ')'
 with codecs.open('out/regex.txt', 'w', 'utf-8') as file:
     file.write(final_regex)
 
+with codecs.open('out/regex-escaped.txt', 'wb') as file:
+    file.write(final_regex.encode('utf-8').decode('latin-1').encode('unicode-escape'))
+
 print(final_regex)
