@@ -20,7 +20,11 @@ python 3-test.py
 - Compiles the test program (testing the regex using C++ regular expressions)
 - Runs the C++ test program with all scraped strings to ensure the regex is ok
 
-The final regex to use is located in `out/regex.txt`
+Output artifacts:
+
+- `regex.txt`: The raw UTF-8 encoded regular expression
+- `regex-escaped.txt`: The raw UTF-8 encoded regular expression with escaped Unicode sequences
+- `regex-string-escaped.txt`: A UTF-8 encoded version of the regular expression with escaped Unicode sequences that can be used in a string variable in various programming languages, JSON and YAML
 
 ---
 
