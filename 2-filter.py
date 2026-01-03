@@ -32,4 +32,10 @@ with codecs.open('out/regex.txt', 'w', 'utf-8') as file:
 with codecs.open('out/regex-escaped.txt', 'w', 'utf-8') as file:
     file.write(final_regex_escaped)
 
+with codecs.open('out/regex-string-escaped.txt', 'w', 'utf-8') as file:
+    file.write(''.join(
+        '\\\\' if c == '\\' else c
+        for c in final_regex_escaped
+    ))
+
 print(final_regex)
