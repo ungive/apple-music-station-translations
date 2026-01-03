@@ -21,11 +21,15 @@ for t in translations:
     regexes.add(regex)
 
 final_regex = '(' + '|'.join(sorted(regexes)) + ')'
+final_regex_escaped = ''.join(
+    f'\\u{ord(c):04x}' if ord(c) > 0x7f else c
+    for c in final_regex
+)
 
 with codecs.open('out/regex.txt', 'w', 'utf-8') as file:
     file.write(final_regex)
 
-with codecs.open('out/regex-escaped.txt', 'wb') as file:
-    file.write(final_regex.encode('utf-8').decode('latin-1').encode('unicode-escape'))
+with codecs.open('out/regex-escaped.txt', 'w', 'utf-8') as file:
+    file.write(final_regex_escaped)
 
 print(final_regex)
