@@ -33,9 +33,6 @@ with open('out/regex-escaped.txt', 'w', encoding='utf-8') as file:
     file.write(final_regex_escaped)
 
 with open('out/regex-string-escaped.txt', 'w', encoding='utf-8') as file:
-    file.write(''.join(
-        '\\\\' if c == '\\' else c
-        for c in final_regex_escaped
-    ))
+    file.write(re.sub(r"\\(?!u[0-9A-Fa-f]{4})", r"\\\\", final_regex_escaped))
 
 print(final_regex)
